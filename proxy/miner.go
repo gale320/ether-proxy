@@ -1,7 +1,7 @@
 package proxy
 
 import (
-	"../util"
+	"github.com/gale320/ether-proxy/util"
 	"log"
 	"math/big"
 	"strconv"
